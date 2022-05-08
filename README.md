@@ -5,4 +5,4 @@
 ## 系統需求
 作業系統：Windows 10<br/>
 執行環境：.NET Desktop Runtime ^5.0.16<br/>
-下載「資料表轉換器」：https://drive.google.com/file/d/1QgIx4ugFJTuBQ8nf8wfQRZIO9_fgkYxb/view?usp=sharing
+下載連結：https://drive.google.com/file/d/1QgIx4ugFJTuBQ8nf8wfQRZIO9_fgkYxb/view?usp=sharing
