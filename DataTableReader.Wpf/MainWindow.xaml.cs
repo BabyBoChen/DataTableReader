@@ -28,6 +28,7 @@ namespace DataTableReader.Wpf
         public MainWindow()
         {
             InitializeComponent();
+            //this.mainWindowViewModel was declared in XAML file
             vm = this.mainWindowViewModel;
         }
         private void btnConnect_Click(object sender, RoutedEventArgs e)
